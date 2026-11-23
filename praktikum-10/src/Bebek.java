@@ -1,6 +1,4 @@
-public class Bebek extends Hewan
-       implements BisaTerbang , BisaBerenang {
-
+public class Bebek extends Hewan implements BisaTerbang , BisaBerenang {
     public Bebek ( String nama) {
         super ( nama);
     }

@@ -3,7 +3,7 @@ public class Persegi extends BangunDatar {
 
     public Persegi ( double sisi ) {
         super ( "Persegi" );
-        this . sisi = sisi ;
+        this.sisi = sisi ;
     }
 
     @Override
